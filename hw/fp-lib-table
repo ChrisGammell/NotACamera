@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name NAC)(type KiCad)(uri "$(KIPRJMOD)/NAC.pretty")(options "")(descr ""))
+  (lib (name HopeRF)(type KiCad)(uri /home/parallels/PCBs/Television-Rules-The-Nation/hw/library/HopeRF.pretty)(options "")(descr ""))
 )
