@@ -2,8 +2,8 @@
 
   (general
     (links 15)
-    (no_connects 6)
-    (area 0 0 0 0)
+    (no_connects 0)
+    (area 74.6125 84.328 148.971001 145.542001)
     (thickness 1.6)
     (drawings 1)
     (tracks 49)
@@ -61,7 +61,7 @@
     (mod_text_width 0.1016)
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
-    (pad_to_mask_clearance 0.2)
+    (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
     (visible_elements 7FFEFFFF)
     (pcbplotparams
@@ -88,7 +88,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory GerberV0/))
+      (outputdirectory GerberV1/))
   )
 
   (net 0 "")
